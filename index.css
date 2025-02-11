@@ -1,0 +1,38 @@
+html { 
+    height: -webkit-fill-available;    /* per a dispositius mòbils */
+}
+body {
+	display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 100vh;
+        min-height: 100svh;
+        min-height: -webkit-fill-available;    
+        margin: 0px;
+        font-family: sans-serif;
+        background-color: #E4FFFF;
+}
+#superior {
+    display: flex;
+    height: 8vmax;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: white;
+    background-color: #2072DB;
+}
+.seccio {
+    flex: 1;
+    display: none;
+}
+#seccio_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    vertical-align: middle;
+    height:100%;	
+}
+#menu {
+    height: 8vmax;
+}
