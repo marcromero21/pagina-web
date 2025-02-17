@@ -34,7 +34,7 @@ body {
     height:100%;	
 }
 #menu {
-    display: flex;    /* el menú és un contenidor de tipus flex */
+    display: flex;
     height: 8vmax;
 }
 #menu i{
