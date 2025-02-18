@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 4vmax;
-    color: white;
+    color: #E4FFFF;
     background-color: #2072DB;
 }
 .seccio {
@@ -31,19 +31,22 @@ body {
     align-items: center;
     font-size: 4vmax;
     vertical-align: middle;
-    height:100%;	
+    height:100%;
+    background-color: #2072DB;
+    color: #E4FFFF;
 }
 #menu {
     display: flex;
     height: 8vmax;
 }
 #menu i{
-    flex: 1;  
-    display: flex;  
+    flex: 1;
+    display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
-    background-color: #950E17;
+    color: #E4FFFF;
+    background-color: #2072DB;
     font-size: 5vmax;
-    cursor: pointer;    
+    cursor: pointer;
 }
+
