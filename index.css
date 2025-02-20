@@ -25,7 +25,7 @@ body {
     flex: 1;
     display: none;
 }
-#seccio 1 {
+#seccio_1 {
     display: flex;
     justify-content: center;
     align-items: center;
